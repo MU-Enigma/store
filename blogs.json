@@ -1,0 +1,59 @@
+[
+  {
+    "year": 2021,
+    "posts": [
+      {
+        "title": "Enigmatic Webslinger",
+        "author": "Anirudh Chimpidi",
+        "date": "Aug 22",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/enigmatic-webslinger.md"
+      },
+      {
+        "title": "Bots behind Engima Instagram Page",
+        "author": "Rahul Arepaka",
+        "date": "Aug 14",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/bots-behind-engima-instagram-page.md"
+      },
+      {
+        "title": "Extensible Messaging Presence Protocol",
+        "author": "Dhathri Meda",
+        "date": "Aug 11",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/extensible-messaging-presence-protocol.md"
+      },
+      {
+        "title": "Live Stream?",
+        "author": "Rounak Das",
+        "date": "Jul 30",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/live-stream.md"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "posts": [
+      {
+        "title": "Xfoliating Disingenuity",
+        "author": "Rishab Ramanathan",
+        "date": "Jun 15",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/xfoliating-disingenuity.md"
+      },
+      {
+        "title": "How I Built My First Bot",
+        "author": "Ananta Srikar",
+        "date": "Jun 15",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/how-i-built-my-first-bot.md"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "posts": [
+      {
+        "title": "Mozilla WebExtension Hackathon",
+        "author": "Raghav NS",
+        "date": "Aug 30",
+        "post": "https://raw.githubusercontent.com/MU-Enigma/store/master/blogs/mozilla-webextension-hackathon.md"
+      }
+    ]
+  }
+]
