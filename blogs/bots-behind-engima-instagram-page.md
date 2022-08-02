@@ -1,3 +1,8 @@
+---
+title:  "Bots behind Engima Instagram Page"
+date:   "Aug 14"
+author: "Rahul Arepaka"
+---
 Handling Instagram pages every day is **quite tiring** for getting the information, editing the post, and uploading them on the Instagram page.
 
 To handle this process, we decided to **automate this entire process** which includes the following:
@@ -22,6 +27,7 @@ These we are our *content planned for the week*:
 | Sunday    | Movie          |
 
 Once we decided the type of contents for the week, we had to **start designing the templates** for each day using **photoshop**.
+
 ![Yuppies Collage General LinkdIn Banner](https://user-images.githubusercontent.com/10435564/129452182-c0f89ca8-69be-4f1b-8f41-898833deda50.png)
 
 Then, we moved to collecting data which includes **media path and information**. For example, **Sunday** we need name of the **movie, rating and picture of the movie**, so we collected and organized information like this:
@@ -44,7 +50,7 @@ Which finally leads to uploading them on **bulk uploading instagram platform**.I
 
 So we chose a free platform called **Combin Scheduler** but this required the application to **run in the background** and PC/Computer to **be turned on all the time** and during the posting date and time but was ***difficult***.
 
-<img width="700" alt="scheduler-promo-poster@2x 4e59a0960e20" src="https://user-images.githubusercontent.com/10435564/129452755-71af31d7-052e-4492-ad8e-5063b2110bfe.png">
+![img](https://user-images.githubusercontent.com/10435564/129452755-71af31d7-052e-4492-ad8e-5063b2110bfe.png)
 
 Hence, we had a **desktop environment server based on India** which had the platform running **24/7** and later we would move this environment to our college server.
 

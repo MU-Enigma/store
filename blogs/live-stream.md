@@ -1,11 +1,8 @@
 ---
-layout: post
 title:  "Live Stream?"
-date:   2021-07-30 12:00:00 +0530
+date:   "Jul 30"
 author: "Rounak Das"
-categories: livestream
 ---
-
 Youtube? Live-Stream? For CS club of College? Wow! Not many gets to be a part of Club Events in college. This was my first club event after joining college amidst covid. Well, unsure about what to do, I think I did a pretty good job in pulling through the "first-ever" live stream of Enigma, considering the fact that I never was a part of any kind of live-stream event ever.
 
 To be honest, when the Vice-President of Enigma contacted me in this regard, I was a bit skeptical about the whole idea. Well, as a 'fresher' (more like a sophomore) it was too good an oppotunity to miss and get acquainted with the Club Heads and Seniors. "Yeah sure, why not!" was my quick response. Srikar, the Vice-President of Enigma immediately invited me to have a voice chat in discord to discuss about the whole plan. We decided to go with the theme, "Map Generation in Video Games." But then Srikar wanted to do something different in it. Lucky enough, we had Raghav (the ex-President of Enigma) who suggested us the idea about Conway's Game of Life. Finding it unconventional, we decided to stick to it and work on the same. We researched and learned the General Principle and Algorithms behind Conway's Game of Life. Apart from this, I researched on some common algorithms used for Map Generation in Video Games. The algorithms were interesting and I could relate them to some of the retro games that I once used to be addicted to as a kid.

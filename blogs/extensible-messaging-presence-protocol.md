@@ -1,3 +1,8 @@
+---
+title:  "Extensible Messaging Presence Protocol"
+date:   "Aug 11"
+author: "Dhathri Meda"
+---
 XMPP was a vague term to me prior the live-stream. Then, I eventually researched about it and began to appreciate its wide usage and great potential in instant messaging applications. The protocol is decentralized, secure, and flexible. It not only supports one-to-one messaging between entities but also multi-party messaging (which enables an entity to join a chat room for the exchange of messages with several participants). The messages can be text messages embedded in XML format but XML can also be used to send control messages between entities i.e., users, bots, servers, devices etc. This architecture is very similar email, where someone on gmail.com can send an email to someone with an account on hotmail.com.
 
 WhatsApp mainly utilizes Multi user chat (MUC) which is is an XMPP extension for multi-party information exchange similar to Internet Relay Chat (IRC), whereby multiple XMPP users can exchange messages in the context of a room or channel. In addition to standard chatroom features such as room topics and invitations, the protocol defines a strong room control model, including the ability to kick and ban users, to name room moderators and administrators, to require membership or passwords in order to join the room, etc. Because MUC rooms are based on XMPP, they can be used to exchange not only plaintext message bodies but a wide variety of XML payloads.

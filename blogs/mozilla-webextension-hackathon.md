@@ -1,11 +1,8 @@
 ---
-layout: post
 title:  "Mozilla WebExtension Hackathon"
-date:   2018-08-30 12:00:00 +0530
+date:   "Aug 30"
 author: "Raghav NS"
-categories: hackathon
 ---
-
 24 hours to code. 200+ participants with one goal: to make the best possible add-on possible. Undergrads from all over the city aided by Mozilla mentors throughout the event were able to see their ideas become reality on 28th to 29th September, 2018. The location is Mahindra Ecole Centrale, an Engineering College in Hyderabad and the organizing committee included 5 admins of Enigma, The CS Club of the college.
 
 People started pouring in at 4 pm on Friday evening. In about an hour, the Large Lecture Theatres were packed with people setting up their workstation and discussing their ideas one last time. At 6 pm, the hackathon commenced with the Vice President of Enigma, The CS Club starting the countdown clock. A few ticks later, the mentors taught the participants how a website works and how add-ons are integrated into the website. HTML, CSS and JavaScript were brought to life in front of the participants’ eyes.
@@ -20,4 +17,4 @@ The first ray of sunshine hit and everyone realized that half the event was alre
 
 Unfortunately, due to unforeseen circumstances, the hackathon was going to end early. Rather than ending at 6 pm, it was to end at 12 pm. This put all the participants in overdrive mode. They now realized that they have only 4 hours left to work. A quick breakfast was all they needed to freshen up. The next 3 hours saw an amazing level of focus as participants were in a race against time to complete their beta version. One by one, sighs of relief could be heard throughout as people started finishing their add-on.
 
-At 11 am, an announcement was made that teams with working demos could present. A total of <code>18</code> teams were ready to present. That hour saw many ideas, ranging from a mini game to a movie and music recommendation add-on and even a chatbot. Many were grateful as this was their first hackathon and they were able to make a working demo. Two mentors alongside a professor from Mahindra Ecole Centrale were the judges of the presentations, who’s top 5 teams would be announced in 5 days. After a quick thank you from the mentors and the organizers, the event ended. A lot of weary eyed participants seemed relieved from the exhaustion of the event but hopeful that they would attend more in the future.
+At 11 am, an announcement was made that teams with working demos could present. A total of `18` teams were ready to present. That hour saw many ideas, ranging from a mini game to a movie and music recommendation add-on and even a chatbot. Many were grateful as this was their first hackathon and they were able to make a working demo. Two mentors alongside a professor from Mahindra Ecole Centrale were the judges of the presentations, who’s top 5 teams would be announced in 5 days. After a quick thank you from the mentors and the organizers, the event ended. A lot of weary eyed participants seemed relieved from the exhaustion of the event but hopeful that they would attend more in the future.
