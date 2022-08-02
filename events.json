@@ -1,0 +1,84 @@
+[
+  {
+    "type": "upcoming",
+    "events": [
+      {
+        "year": "",
+        "list": [
+          {
+            "event": "",
+            "date": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "past",
+    "events": [
+      {
+        "year": "2022",
+        "list": [
+          {
+            "event": "Code Wars [0]: Battleship",
+            "date": "Mar 8"
+          },
+          {
+            "event": "Google Hash Code - Introductory session",
+            "date": "Jan 25"
+          }
+        ]
+      },
+      {
+        "year": "2021",
+        "list": [
+          {
+            "event": "2021 Batch Orientation",
+            "date": "Dec 14"
+          },
+          {
+            "event": "Hacktoberfest 2021 Introduction",
+            "date": "Oct 08"
+          },
+          {
+            "event": "Digital Images livestream",
+            "date": "Aug 21"
+          },
+          {
+            "event": "How does WhatsApp work? livestream",
+            "date": "Jul 24"
+          },
+          {
+            "event": "Map Generation in Games livestream",
+            "date": "Jul 10"
+          },
+          {
+            "event": "Linux Introductory session",
+            "date": "Feb 11"
+          }
+        ]
+      },
+      {
+        "year": "2020",
+        "list": [
+          {
+            "event": "Python Mini Project",
+            "date": "Dec 16"
+          },
+          {
+            "event": "Introduction to Python",
+            "date": "Nov 26"
+          },
+          {
+            "event": "2020 Batch Orientation",
+            "date": "Nov 19"
+          },
+          {
+            "event": "Hacktoberfest 2020 Introduction",
+            "date": "Oct 28"
+          }
+        ]
+      }
+    ]
+  }
+]
