@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ananta Srikar",
+    "role": "Project Lead",
+    "branch": "CSE",
+    "github": "AnantaSrikar",
+    "img": ""
+  },
+  {
+    "name": "Dipyaman Roy",
+    "role": "Networking",
+    "branch": "CSE",
+    "github": "0xd1r",
+    "img": ""
+  },
+  {
+    "name": "Siddarth Reddy",
+    "role": "Scripting",
+    "branch": "AI",
+    "github": "siddarthreddygsr",
+    "img": ""
+  },
+  {
+    "name": "Sai Ravi Teja",
+    "role": "Logistics",
+    "branch": "CSE",
+    "github": "FloareDor",
+    "img": ""
+  },
+  {
+    "name": "Anirudh Chimpidi",
+    "role": "Frontend",
+    "branch": "CSE",
+    "github": "AndroBuddy",
+    "img": ""
+  },
+  {
+    "name": "Sayarnil Ganguly",
+    "role": "Documentation",
+    "branch": "CSE",
+    "github": "xLAVAxMASTERx",
+    "img": ""
+  }
+]
