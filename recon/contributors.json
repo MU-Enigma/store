@@ -1,44 +1,44 @@
 [
   {
+    "name": "Dr. Praveen Kr. Alapati",
+    "role": "Faculty InCharge",
+    "github": "",
+    "img": "https://www.mahindrauniversity.edu.in/sites/default/files/2021/praveen-kumar_1.jpg"
+  },
+  {
     "name": "Ananta Srikar",
     "role": "Project Lead",
-    "branch": "CSE",
     "github": "AnantaSrikar",
-    "img": ""
+    "img": "https://github.com/AnantaSrikar.png"
   },
   {
     "name": "Dipyaman Roy",
     "role": "Networking",
-    "branch": "CSE",
     "github": "0xd1r",
-    "img": ""
+    "img": "https://github.com/0xd1r.png"
   },
   {
     "name": "Siddarth Reddy",
     "role": "Scripting",
-    "branch": "AI",
     "github": "siddarthreddygsr",
-    "img": ""
-  },
-  {
-    "name": "Sai Ravi Teja",
-    "role": "Logistics",
-    "branch": "CSE",
-    "github": "FloareDor",
-    "img": ""
+    "img": "https://github.com/siddarthreddygsr.png"
   },
   {
     "name": "Anirudh Chimpidi",
     "role": "Frontend",
-    "branch": "CSE",
     "github": "AndroBuddy",
-    "img": ""
+    "img": "https://github.com/AndroBuddy.png"
+  },
+  {
+    "name": "Sai Ravi Teja",
+    "role": "Logistics",
+    "github": "FloareDor",
+    "img": "https://github.com/FloareDor.png"
   },
   {
     "name": "Sayarnil Ganguly",
     "role": "Documentation",
-    "branch": "CSE",
     "github": "xLAVAxMASTERx",
-    "img": ""
+    "img": "https://github.com/xLAVAxMASTERx.png"
   }
 ]
