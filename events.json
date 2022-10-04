@@ -3,11 +3,15 @@
     "type": "upcoming",
     "events": [
       {
-        "year": "",
+        "year": "2022",
         "list": [
           {
-            "event": "",
-            "date": ""
+            "event": "Hacktoberfest 2022 Introduction",
+            "date": "13 Oct"
+          },
+          {
+            "event": "Intro to Python",
+            "date": "12 Oct"
           }
         ]
       }
@@ -19,6 +23,14 @@
       {
         "year": "2022",
         "list": [
+          {
+            "event": "2022 Batch Orientation",
+            "date": "29 Sep"
+          },
+          {
+            "event": "Understanding APIs",
+            "date": "6 Sep"
+          },
           {
             "event": "Code Wars [0]: Battleship",
             "date": "Mar 8"
